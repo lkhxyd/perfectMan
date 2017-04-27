@@ -4,3 +4,5 @@
 test commit push
 
 branch dev
+
+test sshgit push is needed pwd
