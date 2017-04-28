@@ -10,3 +10,5 @@ test branch  sss制造冲突 dddd 这里要冲突
 第三次测试冲突
 
 zaici纸草冲突
+
+两个文件同时冲突 eclipse
